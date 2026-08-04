@@ -35,6 +35,5 @@ Recommended Hardware Requirements
 
 Operating System Requirements
 
-  - Supported Versions: Windows 10+ (64-bit editions)
-  - Architectures: x86_64 (Intel and AMD processors)
-  - Requirements: Standard user permissions
+  - Supported Versions: macOS 12+
+  - Architectures: Apple Silicon (M1/M2/M3/M4 via Rosetta or native arm64 build) and Intel Macs
