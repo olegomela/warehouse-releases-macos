@@ -17,7 +17,7 @@ Interface languages:
 
 Download Installer:
 
-
+https://github.com/olegomela/warehouse-releases-macos/releases/download/v1.4.1/warehouse-1.4.1.dmg
 
 Minimum Hardware Requirements
 
