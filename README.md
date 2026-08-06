@@ -1,5 +1,5 @@
 # warehouse-releases-macos
-Simple Warehouse App - .dmg releases
+Simple Warehouse App for macOS- .dmg releases
 
 Stable basic WMS functionality (accounting).
 
