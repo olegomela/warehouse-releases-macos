@@ -5,7 +5,7 @@ Stable basic WMS functionality (accounting).
 
 Local standalone application.
 
-Local database based on .csv files; preserved when uninstalling/reinstalling the application.
+Local database based on .csv files; preserved when uninstalling/reinstalling the application. Sample database for reference.
 
 Interface languages:
 
@@ -17,7 +17,7 @@ Interface languages:
 
 Download Installer:
 
-https://github.com/olegomela/warehouse-releases-macos/releases/download/v1.4.3/warehouse-1.4.3.dmg
+https://github.com/olegomela/warehouse-releases-macos/releases/download/v1.4.4/warehouse-1.4.4.dmg
 
 Minimum Hardware Requirements
 
